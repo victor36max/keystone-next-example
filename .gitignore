@@ -32,3 +32,6 @@ node_modules
 
 # Ignore .next build files
 .next
+
+# Ignore package lock file
+package-lock.json
